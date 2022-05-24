@@ -1,0 +1,279 @@
+{"region":
+[
+{
+	"country":"ae",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"ar",
+	"language":"es-419",
+	"merchGroup":"ar"
+},
+{
+	"country":"at",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"au",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"be",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"bg",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"br",
+	"language":"pt-BR",
+	"merchGroup":"br"
+},
+{
+	"country":"ca",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"ch",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"cl",
+	"language":"es-419",
+	"merchGroup":"XP"
+},
+{
+	"country":"cn",
+	"language":"zh-Hans",
+	"merchGroup":"CN"
+},
+{
+	"country":"cz",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"de",
+	"language":"de",
+	"merchGroup":"EU"
+},
+{
+	"country":"dk",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"eg",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"es",
+	"language":"es-ES",
+	"merchGroup":"EU"
+},
+{
+	"country":"fi",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"fr",
+	"language":"fr",
+	"merchGroup":"EU"
+},
+{
+	"country":"gb",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"gr",
+	"language":"el",
+	"merchGroup":"EU"
+},
+{
+	"country":"hk",
+	"language":"zh-Hant",
+	"merchGroup":"hk"
+},
+{
+	"country":"hk",
+	"language":"en-GB",
+	"merchGroup":"hk"
+},
+{
+	"country":"hr",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"hu",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"id",
+	"language":"en-GB",
+	"merchGroup":"XA"
+},
+{
+	"country":"ie",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"il",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"in",
+	"language":"en-GB",
+	"merchGroup":"XA"
+},
+{
+	"country":"it",
+	"language":"it",
+	"merchGroup":"EU"
+},
+{
+	"country":"jp",
+	"language":"ja",
+	"merchGroup":"JP"
+},
+{
+	"country":"kr",
+	"language":"ko",
+	"merchGroup":"kr"
+},
+{
+	"country":"lu",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"ma",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"mx",
+	"language":"es-419",
+	"merchGroup":"MX"
+},
+{
+	"country":"my",
+	"language":"en-GB",
+	"merchGroup":"XA"
+},
+{
+	"country":"nl",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"no",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"nz",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"ph",
+	"language":"en-GB",
+	"merchGroup":"XA"
+},
+{
+	"country":"pr",
+	"language":"es-419",
+	"merchGroup":"XP"
+},
+{
+	"country":"pt",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"ro",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"ru",
+	"language":"ru",
+	"merchGroup":"XP"
+},
+{
+	"country":"sa",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"se",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"sg",
+	"language":"en-GB",
+	"merchGroup":"XA"
+},
+{
+	"country":"si",
+	"language":"en-GB",
+	"merchGroup":"EU"
+},
+{
+	"country":"sk",
+	"language":"en-GB",
+	"merchGroup":"XP"
+},
+{
+	"country":"th",
+	"language":"th",
+	"merchGroup":"XA"
+},
+{
+	"country":"tr",
+	"language":"tr",
+	"merchGroup":"XP"
+},
+{
+	"country":"tw",
+	"language":"zh-Hant",
+	"merchGroup":"XA"
+},
+{
+	"country":"us",
+	"language":"en",
+	"merchGroup":"US"
+},
+{
+	"country":"uy",
+	"language":"es-419",
+	"merchGroup":"uy"
+},
+{
+	"country":"vn",
+	"language":"en-GB",
+	"merchGroup":"XA"
+},
+{
+	"country":"za",
+	"language":"en-GB",
+	"merchGroup":"XP"
+}
+]
+}
