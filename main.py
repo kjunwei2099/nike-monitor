@@ -307,7 +307,7 @@ async def launch(ctx, country):
 
 
 keep_alive()
-token = 'OTAyMjk5Mzc0NzE2MDg0MjI1.YXcZxg.0BF0LOaU3I2D-h2003dYGfGEowE'
+token = 'YOUR DISCORD TOKEN'
 
 
 def play():
